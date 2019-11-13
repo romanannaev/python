@@ -1,0 +1,16 @@
+a minimal deploy of task:
+
+http://romuald.pythonanywhere.com/station/
+
+to view functionality
+
+login: admin
+password: i'm admin
+
+
+
+my account github:
+https://github.com/romanannaev?tab=repositories
+
+my resume: 
+https://jobs.tut.by/resume/8a0d06b8ff073991260039ed1f3133746f574e

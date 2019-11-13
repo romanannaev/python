@@ -1,0 +1,14 @@
+body {
+    background:gray;
+}
+
+h1 {
+    text-align:center;
+    text-shadow:  20px 10px 5px black;
+    color: lightseagreen;
+}
+
+p {
+    color: indigo;
+    margin-left: 20px;
+}

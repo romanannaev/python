@@ -1,0 +1,12 @@
+h1 {
+    margin:30px;
+    color:red;
+    
+}
+form {
+    padding:10px;
+    width:350px;
+    border:1px solid black;
+    color:black;    
+    font-size: 20px;
+}

@@ -1,0 +1,4 @@
+Library Data Base --- 2019-10-27 01:59:25.786710
+Book name: fkdljg = ['fkdljg', 'dflkgj', 'dlfkgj']
+Book name: roman = ['roman', 'ldf', 'ldfkj', 'ldfkj']
+Book name: dlk = ['dlk', 'sdfklj', 'sdkfl', 'sdklfj', 'sdkf']
